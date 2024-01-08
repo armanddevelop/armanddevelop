@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @armanddevelop
 - 👀 I’m interested in javaScript
-- 🌱 I’m currently learning Node
-- 💞️ I’m looking to collaborate on frontend develops
+- 🌱 I’m currently working like UI frontend developer
+- 💞️ I’m colaborating with other project like Centralia project
 - 📫 How to reach me asalamanca.ayon@gmail.com
 
 <!---
